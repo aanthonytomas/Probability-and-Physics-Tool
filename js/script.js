@@ -1,3 +1,5 @@
+
+
 function showMore() {
     var content = document.getElementById("content");
     var button = document.getElementById("readMoreButton");
